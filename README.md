@@ -1,4 +1,4 @@
-# Data Science SQL Project 22
+# Data Science Python Project 22
 
 ### Proje Kurulumu
 Projeyi öncelikle forklayın ve clone edin.
